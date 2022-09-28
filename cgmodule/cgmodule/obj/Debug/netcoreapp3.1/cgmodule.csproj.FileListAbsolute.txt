@@ -1,0 +1,14 @@
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.exe
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.deps.json
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.runtimeconfig.json
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.runtimeconfig.dev.json
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.dll
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\bin\Debug\netcoreapp3.1\cgmodule.pdb
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.csproj.AssemblyReference.cache
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.AssemblyInfoInputs.cache
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.AssemblyInfo.cs
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.csproj.CoreCompileInputs.cache
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.dll
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.pdb
+C:\Users\91906\Desktop\cgmodule\cgmodule\cgmodule\obj\Debug\netcoreapp3.1\cgmodule.genruntimeconfig.cache
